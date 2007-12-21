@@ -8,6 +8,7 @@ License:   Artistic
 Group:     Development/Perl
 URL:       http://search.cpan.org/dist/%{module}
 Source:    ftp://ftp.perl.org/pub/CPAN/modules/by-module/Algorithm/%{module}-%version.tar.bz2
+Buildroot: %_tmppath/%name-%version
 Buildarch: noarch
 BuildRequires: perl(Algorithm::Diff)
 %if %{mdkversion} < 1010
