@@ -3,7 +3,7 @@
 Name:      perl-%{module}
 Summary:   Apply one or more Algorithm::Diff diffs
 Version:   0.2.3
-Release:   %mkrel 5
+Release:   %mkrel 6
 License:   Artistic
 Group:     Development/Perl
 URL:       http://search.cpan.org/dist/%{module}
