@@ -3,7 +3,7 @@
 
 Name:		perl-%{upstream_name}
 Version:	%perl_convert_version %{upstream_version}
-Release:	14
+Release:	15
 
 Summary:	Apply one or more Algorithm::Diff diffs
 License:	Artistic
